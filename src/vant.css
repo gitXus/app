@@ -1,0 +1,43 @@
+.van-tabs--line .van-tabs__wrap {
+  height: 75px;
+  border: none; }
+
+.van-tab--active {
+  color: #2864d9; }
+
+.van-tabs__nav--line {
+  padding-bottom: 2px; }
+
+.van-contact-card::before {
+  height: 5px;
+  background: repeating-linear-gradient(-46deg, #ff6c6c 0, #ff6c6c 18%, transparent 0, transparent 25%, #1989fa 0, #1989fa 38%, transparent 0, transparent 45%);
+  background-size: 140px; }
+
+.van-submit-bar__bar {
+  height: 90px; }
+
+.van-submit-bar .van-button {
+  width: 215px; }
+
+.van-button--large {
+  height: 90px; }
+
+.van-button {
+  font-size: 30px; }
+
+.van-button--danger {
+  color: #fff;
+  background-color: #1989fa;
+  border: 0.013333rem solid #1989fa; }
+
+.van-submit-bar__bar {
+  font-size: 25px; }
+
+.van-checkbox__icon {
+  margin-left: 50px; }
+
+.van-submit-bar__text {
+  text-align: left;
+  margin-left: 10px; }
+
+/*# sourceMappingURL=vant.css.map */
